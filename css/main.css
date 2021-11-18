@@ -28,7 +28,7 @@ background-color: #2f303a;
   text-align: center;
   letter-spacing: 0.06em;
   text-transform: uppercase;
-
+  max-width: 696px;
 }
 
 /* section */
@@ -44,10 +44,6 @@ background-color: #2f303a;
 }
 
 /* skill */
-
- .container .skill {
-   margin-top: 94px;
- }
 
 .skill .skill-item {
   margin-right: 30px;
@@ -94,11 +90,12 @@ background-color: #2f303a;
 
 .container-portfolio {
   margin-bottom: 94;
+  
 }
 
 .container-portfolio .section-title {
   text-align: center;
-  padding-bottom: 50px;
+  margin-bottom: 50px;
 }
 
 .container-portfolio .list {
@@ -116,11 +113,6 @@ background-color: #2f303a;
 /* team */
 .section-team {
   background-color: rgba(245, 244, 250, 1);
-}
-
-.container-team {
-  padding-top: 94px;
-  padding-bottom: 94px;
 }
 
 .container-team .section-title {
