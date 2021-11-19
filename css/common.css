@@ -26,7 +26,6 @@ body {
 }
 
 .section {
-  padding-top: 94px;
   padding-bottom: 94px;
 }
 
@@ -41,8 +40,6 @@ body {
 
 .site-nav .item {
   margin-right: 50px;
-  padding-top: 30px;
-  padding-bottom: 30px;
 }
 
 .site-nav .item:last-child {
@@ -144,6 +141,10 @@ img {
   color: var(--title-text-color);
   font-weight: 500;
   line-height: 1.14;
+
+  display: block;
+  padding-top: 32px;
+  padding-bottom: 32px;
 }
 
 .site-nav .link:hover,

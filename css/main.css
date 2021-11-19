@@ -8,6 +8,7 @@
 padding-top: 200px;
 padding-bottom: 200px;
 text-align: center;
+margin-bottom: 93px;
 
 background-color: #2f303a;
 }
@@ -85,6 +86,7 @@ background-color: #2f303a;
 /* portfolio */
 
 .portfolio {
+  margin-top: 0;
   margin-bottom: 0;
 }
 
